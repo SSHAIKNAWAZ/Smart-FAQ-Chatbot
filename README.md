@@ -6,9 +6,11 @@
 
 The core idea is to allow users to upload their FAQ PDF, and then instantly get answers to their questions, mimicking a natural conversation.
 
-![1](https://github.com/user-attachments/assets/6e57444a-e9e1-4abe-a4ef-e5121fd20388)
-![3](https://github.com/user-attachments/assets/9398bb51-7f0b-438f-8237-62395fbe8ccc)
-![2](https://github.com/user-attachments/assets/61dbe820-be12-49d7-906d-3635321105f1)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6e57444a-e9e1-4abe-a4ef-e5121fd20388" alt="Description of Image 1" width="500"/>
+  <img src="https://github.com/user-attachments/assets/9398bb51-7f0b-438f-8237-62395fbe8ccc" alt="Description of Image 2" width="500"/>
+</div>
+<img src="https://github.com/user-attachments/assets/61dbe820-be12-49d7-906d-3635321105f1" />
 
 ## Features
 
